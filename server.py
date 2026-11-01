@@ -167,4 +167,5 @@ def policies() -> dict:
 
 
 if __name__ == "__main__":
-    mcp.run()
+    # No startup banner: the agent shows this process's output in its own terminal.
+    mcp.run(show_banner=False)

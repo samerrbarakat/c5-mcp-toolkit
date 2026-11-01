@@ -79,6 +79,7 @@ source = { virtual = "." }
 dependencies = [
     { name = "fastmcp" },
     { name = "openai-agents" },
+    { name = "python-dotenv" },
 ]
 
 [package.dev-dependencies]
@@ -90,6 +91,7 @@ dev = [
 requires-dist = [
     { name = "fastmcp", specifier = ">=4.1.4" },
     { name = "openai-agents", specifier = ">=0.24.0" },
+    { name = "python-dotenv", specifier = ">=1.2.4" },
 ]
 
 [package.metadata.requires-dev]
