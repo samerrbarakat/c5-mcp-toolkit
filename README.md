@@ -4,7 +4,7 @@
 
 An MCP server for *Maison Noisette*, the fictional French-Lebanese pâtisserie from my C3 and C4 assignments, and an OpenAI Agents SDK agent that uses it. The server is built with FastMCP and exposes exactly three tools and two resources. The agent, Camille, is the MCP host: she starts the server, reads its resources, and calls its tools to answer customers and take orders.
 
-🎥 **Demo video:** _add link_
+🎥 **Demo video:** [_add link_](https://youtu.be/o1nqiz8oV5M)
 
 ## The three tools
 
